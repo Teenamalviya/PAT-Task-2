@@ -1,3 +1,5 @@
+# Problem: 3
+
 '''Write a program that takes a string and returns a new string with all the vowels removed'''
 
 # Enter user string
