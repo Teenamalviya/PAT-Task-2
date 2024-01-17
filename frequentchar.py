@@ -1,3 +1,5 @@
+# Problem: 7
+
 # Enter the user string and assign to variable
 input_data = input("Enter your string : ")
 # Create empty dictionary
