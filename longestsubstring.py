@@ -1,3 +1,5 @@
+# Problem: 6
+
 # Enter first and second string
 str1 = input("Enter your first string : ")
 str2 = input("Enter your second string : ")
