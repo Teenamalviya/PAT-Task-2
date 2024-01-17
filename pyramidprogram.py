@@ -1,3 +1,5 @@
+# Problem: 2
+
 # Create a pyramid of numbers from 1 to 20 using for loop:
 
 #The maximum limit of the number
