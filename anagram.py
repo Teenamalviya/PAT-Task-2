@@ -1,3 +1,5 @@
+# Problem: 8
+
 # Assign input strings to the variables
 input_data1 =input("Enter first string : ")
 input_data2 =input("Enter second string : ")
